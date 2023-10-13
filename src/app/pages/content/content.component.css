@@ -17,6 +17,11 @@ height: 300px;
     font-size: 30px;
     
 }
+.content__text a {
+    font-size: 20px;
+    display: flex;
+    justify-content: center;
+}
 .content__text p {
     color: rgb(133, 130, 130);
     text-align: center;
